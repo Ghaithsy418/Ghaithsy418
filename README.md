@@ -13,17 +13,17 @@
   <img width="20" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="60" alt="javascript logo"  />
   <img width="20" />
-  <img src="https://www.vectorlogo.zone/logos/typescriptlang/typescriptlang-icon.svg" height="60" alt="javascript logo"  />
+  <img src="https://www.vectorlogo.zone/logos/typescriptlang/typescriptlang-icon.svg" height="60" alt="typescript logo"  />
   <img width="20" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="60" alt="react logo"  />
   <img width="20" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/redux/redux-original.svg" height="60" alt="redux logo"  />
   <img width="20" />
-  <img src="https://www.vectorlogo.zone/logos/reactrouter/reactrouter-ar21.svg" height="60" alt="composer logo"  />
+  <img src="https://www.vectorlogo.zone/logos/reactrouter/reactrouter-ar21.svg" height="60" alt="react router"  />
   <img width="20" />
-  <img src="https://www.vectorlogo.zone/logos/nextjs/nextjs-icon.svg" height="60" alt="composer logo"  />
+  <img src="https://www.vectorlogo.zone/logos/nextjs/nextjs-icon.svg" height="60" alt="next.js"  />
   <img width="20" />
-  <img src="https://www.vectorlogo.zone/logos/framer/framer-ar21.svg" height="60" alt="composer logo"  />
+  <img src="https://www.vectorlogo.zone/logos/framer/framer-ar21.svg" height="60" alt="framer motion"  />
   <img width="20" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/laravel/laravel-original.svg" height="60" alt="laravel logo"  />
   <img width="20" />
