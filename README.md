@@ -21,7 +21,7 @@
   <img width="20" />
   <img src="https://www.vectorlogo.zone/logos/reactrouter/reactrouter-ar21.svg" height="60" alt="react router"  />
   <img width="20" />
-  <img src="https://images.seeklogo.com/logo-png/43/1/react-query-logo-png_seeklogo-435661.png" height="60" alt="react query"  />
+  <img src="https://files.svgcdn.io/logos/react-query-icon.svg" height="60" alt="react query"  />
   <img width="20" />
   <img src="https://www.vectorlogo.zone/logos/nextjs/nextjs-icon.svg" height="60" alt="next.js"  />
   <img width="20" />
