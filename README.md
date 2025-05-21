@@ -38,7 +38,9 @@
 ###
 
 <div align="left">
-  <img src="https://img.shields.io/static/v1?message=ghaithsy418@gmail.com&logo=gmail&label=Gmail&color=D14836&logoColor=white&labelColor=&style=flat" height="30" alt="gmail logo"  />
+  <a href="mailto:ghaithsy418@gmail.com">
+    <img src="https://img.shields.io/static/v1?message=ghaithsy418@gmail.com&logo=gmail&label=Gmail&color=D14836&logoColor=white&labelColor=&style=flat" height="30" alt="gmail logo"  />
+  </a>
   <a href="https://www.instagram.com/ghaithshabakji?igsh=MW4zaHp4cDljM2o2Zg==" target="_blank">
     <img src="https://img.shields.io/static/v1?message=Instagram&logo=instagram&label=&color=E4405F&logoColor=white&labelColor=&style=flat" height="30" alt="instagram logo"  />
   </a>
